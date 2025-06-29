@@ -43,10 +43,15 @@ wwwwwwwwwrrrrrrrrrgggggggggyyyyyyyyyooooooooobbbbbbbbb
 
 Rotated Face: F
 Current Cube State: wwwwwwwwwrrrrrrrrrgggggggggyyyyyyyyyooooooooobbbbbbbbb
+```
 
-LIVE DEMO
+
+
+## LIVE DEMO
 You can interact with the cube here:
 🔗 https://rubikscubepuzzleusingdom.netlify.app/
 
-CONCLUSION
+
+
+## CONCLUSION
 This 3D Rubik’s Cube project demonstrates how powerful HTML, CSS, and JavaScript can be when used together to create an interactive and visually rich user experience — all in the browser with no frameworks. It’s a fun and educational way to simulate a Rubik's Cube and visually understand cube mechanics and state tracking. The cube looks and behaves like a real one, offering a playful hands-on UI for practicing face rotations and observing cube transformations in real-time.
